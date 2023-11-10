@@ -5,17 +5,17 @@
 
 
 ## Table Of Contents
-[Summary of Data Manipulations and Feature Engineering](https://github.com/ttu700/Stroke-prediction-Analysis/edit/main/README.md#summary-of-data-manipulations-and-feature-engineering)
+[Summary of Data Manipulations and Feature Engineering](https://github.com/ttu700/Stroke-prediction-Analysis#summary-of-data-manipulations-and-feature-engineering)
 
-[Summary of Statistical Methods Used](https://github.com/ttu700/Stroke-prediction-Analysis/edit/main/README.md#summary-of-statistical-methods-used)
+[Summary of Statistical Methods Used](https://github.com/ttu700/Stroke-prediction-Analysis#summary-of-statistical-methods-used)
 
-[Key Observations and Results from Statistical Models](https://github.com/ttu700/Stroke-prediction-Analysis/edit/main/README.md#key-observations-and-results-from-statistical-models)
+[Key Observations and Results from Statistical Models](https://github.com/ttu700/Stroke-prediction-Analysis#key-observations-and-results-from-statistical-models)
 
-[Conclusions from the Analysis](https://github.com/ttu700/Stroke-prediction-Analysis/edit/main/README.md#conclusions-from-the-analysis)
+[Conclusions from the Analysis](https://github.com/ttu700/Stroke-prediction-Analysis#conclusions-from-the-analysis)
 
-[Lessons Learned in the Project](https://github.com/ttu700/Stroke-prediction-Analysis/edit/main/README.md#lessons-learned-in-the-project)
+[Lessons Learned in the Project](https://github.com/ttu700/Stroke-prediction-Analysis#lessons-learned-in-the-project)
 
-[Data Source and References](https://github.com/ttu700/Stroke-prediction-Analysis/edit/main/README.md#data-source-and-references)
+[Data Source and References](https://github.com/ttu700/Stroke-prediction-Analysis#data-source-and-references)
 
 ## Summary of Data Manipulations and Feature Engineering
 1. **Converted 'Gender' to binary variable (0 for male, 1 for female)**
